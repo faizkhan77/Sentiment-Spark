@@ -1,8 +1,18 @@
 # 🌟 Sentiment Spark  
 
-![Sentiment Spark Demo 1](path/to/demo1.gif)  
-![Sentiment Spark Demo 2](path/to/demo2.gif)  
-![Sentiment Spark Demo 3](path/to/demo3.gif)  
+![Sentiment Spark Demo 1](first.gif)  
+
+Single Review Analysis
+
+![Sentiment Spark Demo 2](sec.gif)  
+
+Dataset Analysis Results
+
+![Sentiment Spark Demo 3](third.gif)  
+
+Visualization
+
+![Sentiment Spark Demo 3](visual.gif)  
 
 ## 🎯 Overview  
 **Sentiment Spark** is a deep learning-based sentiment analysis tool powered by **BERT Multilingual** from Hugging Face. It can analyze text reviews, classify sentiments on a scale of **1 to 5**, and provide detailed insights with interactive visualizations.  
